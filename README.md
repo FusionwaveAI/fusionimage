@@ -5,4 +5,4 @@ This Generative AI Image Generation App utilises OpenAI's APIs to create stunnin
 
 # Tech Stack
 
-This is Full-stack MERN app, our tech stack includes Vite, React, TailwindCSS, JavaScript, Expressjs, Nodejs, MongoDB, OpenAI APIs and Cloudinary. The client(frontend) is deployed on Netlify and the server(backend) is deployed on Render.
+This is Full-stack MERN app, our tech stack includes Vite, React, TailwindCSS, JavaScript, Expressjs, Nodejs, MongoDB, OpenAI APIs and Cloudinary. The client(frontend) is deployed on Vercel and the server(backend) is deployed on Render.
